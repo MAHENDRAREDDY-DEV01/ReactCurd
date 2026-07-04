@@ -11,7 +11,7 @@ function Home() {
     console.log(state)
     // let fetch data
     let fetchData = async () => {
-        let res =await axios.get('http://localhost:8080/data')
+        let res =await axios.get('https://reactcurd-okbw.onrender.com/data')
         console.log(res)
         let{data} = res
         setState(data)
@@ -24,7 +24,7 @@ function Home() {
 
     let handleDelete =  (id) => {
         console.log(id)
-        axios.delete(`http://localhost:8080/data/${id}`)
+        axios.delete(`https://reactcurd-okbw.onrender.com/data/${id}`)
         .then(()=>{
             console.log('deleted')
             window.location.reload()

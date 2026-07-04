@@ -28,7 +28,7 @@ function Create() {
     console.log(playload)
 
 
-    axios.post('http://localhost:8080/data', playload)
+    axios.post('https://reactcurd-okbw.onrender.com/data', playload)
     .then(()=>{
       console.log('data added')
       navigate('/')

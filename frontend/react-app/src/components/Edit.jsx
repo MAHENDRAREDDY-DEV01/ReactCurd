@@ -19,7 +19,7 @@ function Edit() {
 
   //
   useEffect(() => {
-    axios.get(`http://localhost:8080/data/${id}`)
+    axios.get(`https://reactcurd-okbw.onrender.com/data/${id}`)
       .then((res) => {
         console.log(res.data)
       
@@ -49,7 +49,7 @@ function Edit() {
       }
 
     }
-    axios.put(`http://localhost:8080/data/${id}`, payload)
+    axios.put(`https://reactcurd-okbw.onrender.com/data/${id}`, payload)
       .then(() => {
         console.log('Data updated successfully:');
         toast.success('Data updated successfully');
