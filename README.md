@@ -38,8 +38,6 @@ ReactCurd/
 
 ## 🌐 Live Demo
 
-## 🌐 Live Demo
-
 **Frontend:**  
 [ReactCurd Live](https://reactcurd-1-v5q3.onrender.com/)
 
