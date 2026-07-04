@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "username": "YEDDULA MAHENDRA REDDY",
+      "email": "mahendrareddyyeddula123@gmail.com",
+      "companyname": "PRINSTON SMART ENGINEERING IN DATA SCIENCE DOMAIN, ROLE:DATA SCIENCE INTERN, key responsibilities : TRAINING MACHINE LEARING MODELS",
+      "phone": "08688175283",
+      "address": {
+        "street": "suddapalle village peddamuduim mandal",
+        "city": "kadapa"
+      },
+      "id": 1
+    },
+    {
+      "username": "YEDDULA MAHENDRA REDDY",
+      "email": "mahendrareddyyeddula123@gmail.com",
+      "companyname": "Yeddula Mahendra Reddy ",
+      "phone": "08688175283",
+      "address": {
+        "street": "suddapalle village peddamuduim mandal",
+        "city": "kadapa"
+      },
+      "id": 2
+    },
+    {
+      "username": "YEDDULA MAHENDRA REDDY",
+      "email": "",
+      "companyname": "",
+      "phone": "",
+      "address": {
+        "street": "",
+        "city": ""
+      },
+      "id": 3
+    },
+    {
+      "username": "rani",
+      "email": "",
+      "companyname": "",
+      "phone": "",
+      "address": {
+        "street": "",
+        "city": ""
+      },
+      "id": 4
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
