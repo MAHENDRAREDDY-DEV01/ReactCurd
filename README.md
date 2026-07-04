@@ -32,6 +32,7 @@ ReactCurd/
 │   ├── data.json
 │   ├── server.js
 │   └── package.json
+|   |__ package.lock.json
 ├── frontend/
 │   └── react-app/
 ```
@@ -54,10 +55,5 @@ ReactCurd/
 - Deploying frontend and backend on Render
 
 ## 👨‍💻 Author
-*Mahendra Reddy*
-
-If you found this project useful, feel free to ⭐ the repository!
-
 **Mahendra Reddy**
-
 If you found this project useful, feel free to ⭐ the repository!
