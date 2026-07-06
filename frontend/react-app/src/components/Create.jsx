@@ -42,10 +42,7 @@ function Create() {
 
     })
   }
-  
-
-
-  
+ 
   return (
     <div>
      <form action=" ">
